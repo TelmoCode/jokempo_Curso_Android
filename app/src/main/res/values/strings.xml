@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokempo</string>
+    <string name="lbl_escolhaApp">Escolha do App</string>
+    <string name="lbl_EscolhaUsuario">Escolha do Usuário</string>
+</resources>
